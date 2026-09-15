@@ -1,4 +1,4 @@
-package com.yerepouni.yerepouni_news_flutter
+package com.yerepouninews.newsapp
 
 import io.flutter.embedding.android.FlutterActivity
 
